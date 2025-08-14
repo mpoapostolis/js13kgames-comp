@@ -1,4 +1,4 @@
-# 👑 Dungeon Escape
+# 👑 Dungeon Escape [demo](https://js13kgames-comp.vercel.app/)
 
 **A 3D dungeon crawler for JS13K 2025**
 
